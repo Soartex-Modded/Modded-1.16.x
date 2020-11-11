@@ -1,0 +1,12 @@
+{
+    "mod_filename": "alltheores-0.1.13-1.16.3-34.1.0.jar",
+    "mod_id": "alltheores",
+    "mod_name": "ATO - All The Ores",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "ATMTeam"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/ato",
+    "description": "This is an attempt to unify all the common ores in ATM packs to make them all blend together and have less overlap. Feel free to use this mod in any modpack.",
+    "mod_dir": "/ATO_-_All_The_Ores/"
+}
