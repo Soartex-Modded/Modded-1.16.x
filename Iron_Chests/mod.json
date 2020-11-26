@@ -1,0 +1,13 @@
+{
+    "mod_filename": "ironchest-1.15.2-10.0.2.jar",
+    "mod_id": "ironchest",
+    "mod_name": "Iron Chests",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "ProgWML6",
+        "Alexbegt"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/iron-chests",
+    "description": "Iron Chest mod",
+    "mod_dir": "/Iron_Chests/"
+}

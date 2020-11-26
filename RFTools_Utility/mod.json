@@ -1,0 +1,12 @@
+{
+    "mod_filename": "rftoolsutility-1.15-2.1.9.jar",
+    "mod_id": "rftools-utility",
+    "mod_name": "RFTools Utility",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-utility",
+    "description": "General RFTools blocks that don't fit in a more specific category",
+    "mod_dir": "/RFTools_Utility/"
+}

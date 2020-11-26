@@ -1,0 +1,12 @@
+{
+    "mod_filename": "envirotech-1.16.4-3.0.4.0.jar",
+    "mod_id": "environmental-tech",
+    "mod_name": "Environmental Tech",
+    "mc_version": "1.16.4",
+    "mod_authors": [
+        "ValkyrieofNight"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/environmental-tech",
+    "description": "A Tech mod filled with lots of multiblock machines. All machines run off or generate RF Energy.",
+    "mod_dir": "/Environmental_Tech/"
+}

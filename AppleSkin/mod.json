@@ -1,0 +1,12 @@
+{
+    "mod_filename": "appleskin-mc1.15-fabric-1.0.8.jar",
+    "mod_id": "appleskin",
+    "mod_name": "AppleSkin",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "squeek502"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+    "description": "Adds some useful information about food/hunger to the HUD",
+    "mod_dir": "/AppleSkin/"
+}

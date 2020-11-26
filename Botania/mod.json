@@ -1,0 +1,12 @@
+{
+    "mod_filename": "Botania r1.8-249.jar",
+    "mod_id": "botania",
+    "mod_name": "Botania",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "Vazkii"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/botania",
+    "description": "An innovative natural magic themed tech mod",
+    "mod_dir": "/Botania/"
+}

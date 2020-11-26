@@ -1,0 +1,12 @@
+{
+    "mod_filename": "RefinedRelocation_1.16.3-8.2.1.jar",
+    "mod_id": "refined-relocation-2",
+    "mod_name": "Refined Relocation 2",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "BlayTheNinth"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/refined-relocation-2",
+    "description": "Sorting Chests. Block Extenders. Hoppers.",
+    "mod_dir": "/Refined_Relocation_2/"
+}

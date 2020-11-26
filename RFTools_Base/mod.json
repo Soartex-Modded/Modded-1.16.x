@@ -1,0 +1,12 @@
+{
+    "mod_filename": "rftoolsbase-1.15-1.1.3-beta.jar",
+    "mod_id": "rftools-base",
+    "mod_name": "RFTools Base",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-base",
+    "description": "RFTools Base: base mod for all McJty tech mods",
+    "mod_dir": "/RFTools_Base/"
+}

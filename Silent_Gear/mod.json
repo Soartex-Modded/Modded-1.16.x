@@ -1,0 +1,12 @@
+{
+    "mod_filename": "SilentGear-1.12.2-0.5.1+62.jar",
+    "mod_id": "silent-gear",
+    "mod_name": "Silent Gear",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "SilentChaos512"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/silent-gear",
+    "description": "Upgradeable tools, weapons, and armor. Custom materials system!",
+    "mod_dir": "/Silent_Gear/"
+}

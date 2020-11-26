@@ -1,0 +1,12 @@
+{
+    "mod_filename": "BetterAdvancements-1.15.2-0.1.0.98.jar",
+    "mod_id": "betteradvancements",
+    "mod_name": "Better Advancements",
+    "mc_version": "1.16.4",
+    "mod_authors": [
+        "way2muchnoise"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/better-advancements",
+    "description": "Successor to BetterAchievements for the new advancements system in minecraft 1.12+",
+    "mod_dir": "/Better_Advancements/"
+}

@@ -1,0 +1,12 @@
+{
+    "mod_filename": "rftoolsbuilder-1.15-2.1.5-beta.jar",
+    "mod_id": "rftools-builder",
+    "mod_name": "RFTools Builder",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-builder",
+    "description": "RFTools addon mod adding the builder, shield system and much more",
+    "mod_dir": "/RFTools_Builder/"
+}

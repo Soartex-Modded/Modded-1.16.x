@@ -1,0 +1,12 @@
+{
+    "mod_filename": "CookingForBlockheads_1.15.2-8.0.1.jar",
+    "mod_id": "cookingforblockheads",
+    "mod_name": "Cooking for Blockheads",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "BlayTheNinth"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads",
+    "description": "Adds a cooking book and multiblock kitchens that only shows recipes you can make with what you currently have in your inventory.",
+    "mod_dir": "/Cooking_For_Blockheads/"
+}

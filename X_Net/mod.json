@@ -1,0 +1,13 @@
+{
+    "mod_id": "xnet",
+    "mod_name": "XNet",
+    "mod_filename": "xnet-1.16-3.0.9.jar",
+    "mc_version": "${mcversion}",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "",
+    "description": "XNet is a highly optimized networking cable system for items, energy, fluids, information, ...",
+    "mod_version": "${version}",
+    "mod_dir": "/X_Net/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_filename": "BloodMagic-1.12.2-2.3.1-99.jar",
+    "mod_id": "bloodmagic",
+    "mod_name": "Blood Magic",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "WayofTime",
+        "TehNut"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/blood-magic",
+    "description": "An arcane art for ultimate power",
+    "mod_dir": "/Blood_Magic/"
+}

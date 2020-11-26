@@ -1,0 +1,12 @@
+{
+    "mod_filename": "QuantumStorage-1.10.2-3.3.6.jar",
+    "mod_id": "quantumstorage",
+    "mod_name": "Quantum Storage",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "GigaBit101"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/quantumstorage",
+    "description": "A mod that adds a Deep Storage Unit to hold all the things ",
+    "mod_dir": "/Quantum_Storage/"
+}

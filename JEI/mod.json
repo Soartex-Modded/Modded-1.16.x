@@ -1,0 +1,12 @@
+{
+    "mod_filename": "jei-1.15.2-6.0.3.15.jar",
+    "mod_id": "jei",
+    "mod_name": "JEI",
+    "mc_version": "1.16.4",
+    "mod_authors": [
+        "mezz"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/jei",
+    "description": "View Items and Recipes",
+    "mod_dir": "/JEI/"
+}

@@ -1,0 +1,12 @@
+{
+    "mod_filename": "furniture-7.0.0-pre19-1.16.3.jar",
+    "mod_id": "mrcrayfish-furniture-mod",
+    "mod_name": "MrCrayfish's Furniture Mod",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "MrCrayfish"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod",
+    "description": "Adds over 80 unique pieces of furniture into Minecraft!",
+    "mod_dir": "/MrCrayfishs_Furniture_Mod/"
+}

@@ -1,0 +1,12 @@
+{
+    "mod_filename": "armorplus-1.12.2-11.12.1.39-beta.jar",
+    "mod_id": "armorplus",
+    "mod_name": "ArmorPlus",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "sokratis12GR"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/armorplus",
+    "description": "ArmorPlus is a mod based on exploration, killing, building, getting geared up, fight the bosses and explore the depths of your worlds",
+    "mod_dir": "/ArmorPlus/"
+}

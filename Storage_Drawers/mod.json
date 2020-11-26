@@ -1,0 +1,12 @@
+{
+    "mod_filename": "StorageDrawers-1.12.2-5.4.2.jar",
+    "mod_id": "storagedrawers",
+    "mod_name": "Storage Drawers",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "Texelsaur"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers",
+    "description": "Interactive compartment storage for your workshops.",
+    "mod_dir": "/Storage_Drawers/"
+}

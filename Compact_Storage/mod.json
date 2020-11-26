@@ -1,0 +1,12 @@
+{
+    "mod_filename": "compact-storage-4.1.0-1.16.2.jar",
+    "mod_id": "compactstorage",
+    "mod_name": "Compact Storage",
+    "mc_version": "1.16.2",
+    "mod_authors": [
+        "tobyystrong"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/compactstorage",
+    "description": "Adding 24x12 slot upgradable chests and backpacks",
+    "mod_dir": "/Compact_Storage/"
+}

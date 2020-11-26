@@ -1,0 +1,13 @@
+{
+    "mod_filename": "chiselsandbits-0.2.2-ALPHA.jar",
+    "mod_id": "chiselandbits",
+    "mod_name": "Chisel & Bits",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "AlgorithmX2",
+        "OrionOnline"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits",
+    "description": "Create endless custom decorations using in game materials.",
+    "mod_dir": "/Chisel_&_Bits/"
+}

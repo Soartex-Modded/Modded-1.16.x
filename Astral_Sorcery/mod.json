@@ -1,0 +1,12 @@
+{
+    "mod_filename": "astralsorcery-1.15.2-1.12.7.jar",
+    "mod_id": "astralsorcery",
+    "mod_name": "Astral Sorcery",
+    "mc_version": "1.16.4",
+    "mod_authors": [
+        "HellFirePvP"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/astral-sorcery",
+    "description": "Magic mod that uses the power of stars and constellations",
+    "mod_dir": "/Astral_Sorcery/"
+}

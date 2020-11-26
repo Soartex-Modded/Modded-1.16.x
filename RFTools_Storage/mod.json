@@ -1,0 +1,12 @@
+{
+    "mod_filename": "rftoolsstorage-1.15-1.1.6-beta.jar",
+    "mod_id": "rftools-storage",
+    "mod_name": "RFTools Storage",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-storage",
+    "description": "RFTools Storage addon",
+    "mod_dir": "/RFTools_Storage/"
+}

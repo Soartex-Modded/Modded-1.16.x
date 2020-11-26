@@ -1,0 +1,12 @@
+{
+    "mod_filename": "rftoolscontrol-1.15-3.0.4-beta.jar",
+    "mod_id": "rftools-control",
+    "mod_name": "RFTools Control",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/rftools-control",
+    "description": "Automation and logic computer addon for RFTools",
+    "mod_dir": "/RFTools_Control/"
+}

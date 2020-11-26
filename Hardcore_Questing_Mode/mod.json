@@ -1,0 +1,14 @@
+{
+    "mod_filename": "HQM-Beyond-1.12-5.3.1.jar",
+    "mod_id": "hardcore-questing-mode",
+    "mod_name": "Hardcore Questing Mode",
+    "mc_version": "1.16.3",
+    "mod_authors": [
+        "LordDusk",
+        "_ForgeUser7319596",
+        "Newcastlegeek"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/hardcore-questing-mode",
+    "description": "Hardcore Questing Mode",
+    "mod_dir": "/Hardcore_Questing_Mode/"
+}

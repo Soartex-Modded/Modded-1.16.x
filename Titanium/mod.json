@@ -1,0 +1,14 @@
+{
+    "mod_id": "titanium",
+    "mod_name": "Titanium",
+    "mod_filename": "titanium-1.15.2-2.4.1.jar",
+    "mc_version": "${mcversion}",
+    "mod_authors": [
+        "hrznstudio",
+        "Buuz135"
+    ],
+    "url_website": "",
+    "description": "Library for Horizon Studio",
+    "mod_version": "${version}",
+    "mod_dir": "/Titanium/"
+}

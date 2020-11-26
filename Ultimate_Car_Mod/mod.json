@@ -1,0 +1,13 @@
+{
+    "mod_filename": "car-1.12.2-1.2.12.jar",
+    "mod_id": "ultimate-car-mod",
+    "mod_name": "Ultimate Car Mod",
+    "mc_version": "1.16.4",
+    "mod_authors": [
+        "henkelmax",
+        "junanas"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod",
+    "description": " This mod brings cars, road construction and biodiesel production into your Minecraft world.",
+    "mod_dir": "/Ultimate_Car_Mod/"
+}
