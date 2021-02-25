@@ -1,0 +1,13 @@
+{
+    "mod_filename": "alexsmobs-1.5.0.jar",
+    "mod_id": "alexsmobs",
+    "mod_name": "Alex's Mobs",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "alex1the1666",
+        "Carro1001Twitch"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+    "description": "lex's Mobs is a Forge mod that adds 34 new mobs to Minecraft. All of these mobs fall into either two categories: most of them are real world creatures, like Grizzly Bears, Roadrunners, Orcas, etc; but some of them are purely fictional, like the Endergade and Bone Serpent, yet do not feel out of place in Minecraft.",
+    "mod_dir": "/Alexs_Mobs/"
+}
