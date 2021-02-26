@@ -1,0 +1,13 @@
+{
+    "mod_filename": "BiomesOPlenty-1.16.4-13.0.0.431-universal.jar",
+    "mod_id": "biomesoplenty",
+    "mod_name": "Biomes O' Plenty",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Forstride",
+		"Adubbz"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty",
+    "description": "Adds over 50 new biomes, blocks, and more!",
+    "mod_dir": "/Biomes_O_Plenty/"
+}

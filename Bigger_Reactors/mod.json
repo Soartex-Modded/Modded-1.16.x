@@ -1,0 +1,13 @@
+{
+    "mod_filename": "biggerreactors-1.16.4-0.4.3.jar",
+    "mod_id": "biggerreactors",
+    "mod_name": "Bigger Reactors",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "RogueLogix",
+		"gizmocodes"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/biggerreactors",
+    "description": "Big Reactors, but even bigger. Part of the BiggerSeries of mods. Official continuation of Big Reactors",
+    "mod_dir": "/Bigger_Reactors/"
+}
