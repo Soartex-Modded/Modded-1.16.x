@@ -1,0 +1,12 @@
+{
+    "mod_filename": "CosmeticArmorReworked-1.16.5-v1.jar",
+    "mod_id": "cosmeticarmorreworked",
+    "mod_name": "CosmeticArmorReworked",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "zlainsama"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked",
+    "description": "This mod allows you to wear two sets of armor, one for display, one for function. You can also hide armor for your skin.",
+    "mod_dir": "/Cosmetic_Armor_Reworked/"
+}

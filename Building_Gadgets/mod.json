@@ -1,0 +1,12 @@
+{
+    "mod_filename": "buildinggadgets-1.16.4-3.7.3.jar",
+    "mod_id": "buildinggadgets",
+    "mod_name": "Building Gadgets",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Direwolf20"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets",
+    "description": "Adds some gadgets to help you build!",
+    "mod_dir": "/Building_Gadgets/"
+}
