@@ -1,0 +1,12 @@
+{
+    "mod_filename": "minecolonies-0.13.602-ALPHA-universal.jar",
+    "mod_id": "minecolonies",
+    "mod_name": "MineColonies",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "LDT Team"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/minecolonies",
+    "description": "MineColonies is a colony simulator within Minecraft!",
+    "mod_dir": "/MineColonies/"
+}
