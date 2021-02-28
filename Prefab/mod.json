@@ -1,0 +1,12 @@
+{
+    "mod_filename": "prefab-1.6.5.0.jar",
+    "mod_id": "prefab",
+    "mod_name": "Prefab",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "WuestMan"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/prefab",
+    "description": "Provides ways of making pre-fabricated houses and other structures.",
+    "mod_dir": "/Prefab/"
+}

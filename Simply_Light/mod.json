@@ -1,0 +1,12 @@
+{
+    "mod_filename": "simplylight-1.16.4-1.1.1.jar",
+    "mod_id": "simplylight",
+    "mod_name": "Simply Light",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Flanks255"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/simply-light",
+    "description": "Simple light, for a complicated world.",
+    "mod_dir": "/Simply_Light/"
+}

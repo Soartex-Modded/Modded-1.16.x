@@ -1,0 +1,12 @@
+{
+    "mod_filename": "useful_backpacks-1.16.4-1.11.6.87.jar",
+    "mod_id": "usefulbackpacks",
+    "mod_name": "Useful Backpacks",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "HyCraftHD"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/useful-backpacks",
+    "description": "This mod adds cool new backpacks to your game.",
+    "mod_dir": "/Useful_Backpacks/"
+}

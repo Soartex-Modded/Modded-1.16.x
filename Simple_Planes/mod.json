@@ -1,0 +1,13 @@
+{
+    "mod_filename": "simpleplanes-1.16.3-3.2.0.2.jar",
+    "mod_id": "simpleplanes",
+    "mod_name": "Simple Planes",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "adoxentor",
+		"przemyk"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/simple-planes",
+    "description": "Adds flying planes.",
+    "mod_dir": "/Simple_Planes/"
+}

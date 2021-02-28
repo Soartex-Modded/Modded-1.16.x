@@ -1,0 +1,12 @@
+{
+    "mod_filename": "refinedstorage-1.9.11.jar",
+    "mod_id": "refinedstorage",
+    "mod_name": "Refined Storage",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Refined Mods"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/refined-storage",
+    "description": "An elegant solution to your hoarding problem",
+    "mod_dir": "/Refined_Storage/"
+}

@@ -1,0 +1,15 @@
+{
+    "mod_filename": "Quark-r2.4-305.jar",
+    "mod_id": "quark",
+    "mod_name": "Quark",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Vazkii",
+		"Wiiv",
+		"WireSegal",
+		"MCVinnyq"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/quark",
+    "description": "Small things.",
+    "mod_dir": "/Quark/"
+}
