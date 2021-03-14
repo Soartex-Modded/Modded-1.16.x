@@ -1,0 +1,13 @@
+{
+    "mod_filename": "compactmachines-4.0.0-beta.2.jar",
+    "mod_id": "compact-machines",
+    "mod_name": "Compact Machines",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "davenonymous",
+        "RobotGryphon"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/compact-machines",
+    "description": "These are the main component of this mod and they allow you to build complicated machine contraptions and hide them within a single Compact Machine block.",
+    "mod_dir": "/Compact_Machines/"
+}
