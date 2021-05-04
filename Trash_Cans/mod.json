@@ -1,0 +1,12 @@
+{
+    "mod_filename": "trashcans-1.0.6a-mc1.16.4.jar",
+    "mod_id": "trashcans",
+    "mod_name": "Trash Cans",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "SuperMartijn642"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/trash-cans",
+    "description": "Trash Cans adds Trash Cans which can be used to void items, liquids and energy!",
+    "mod_dir": "/Trash_Cans/"
+}

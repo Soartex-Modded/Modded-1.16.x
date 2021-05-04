@@ -1,0 +1,12 @@
+{
+    "mod_filename": "metalbarrels-3.3a.jar",
+    "mod_id": "metalbarrels",
+    "mod_name": "Metal Barrels",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Tfarecnim"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/metal-barrels",
+    "description": "Adds additional tiers of barrels",
+    "mod_dir": "/Metal_Barrels/"
+}

@@ -1,0 +1,12 @@
+{
+    "mod_filename": "movingelevators-1.2.32-mc1.16.5.jar",
+    "mod_id": "movingelevators",
+    "mod_name": "Moving Elevators",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "SuperMartijn642"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/moving-elevators",
+    "description": "Moving Elevators allows you to build real moving elevators! These elevator will move you as well as other entities on the platform to multiple floors at the press of a button!",
+    "mod_dir": "/Moving_Elevators/"
+}

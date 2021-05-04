@@ -1,0 +1,13 @@
+{
+    "mod_filename": "EnderStorage-1.16.4-2.7.1.166-universal.jar",
+    "mod_id": "enderstorage",
+    "mod_name": "EnderStorage",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "ChickenBones",
+		"covers1624"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8",
+    "description": "Stores your stuff in the END!",
+    "mod_dir": "/Ender_Storage/"
+}

@@ -1,0 +1,12 @@
+{
+    "mod_filename": "Space-Bosstools-1.16.4-4.0.jar",
+    "mod_id": "boss_tools",
+    "mod_name": "boss tools",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "MrScautHD"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/space-bosstools",
+    "description": "Fly to Other Planets!",
+    "mod_dir": "/Space_Boss_Tools/"
+}

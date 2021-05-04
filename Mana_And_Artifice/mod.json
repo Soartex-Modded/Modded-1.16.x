@@ -1,0 +1,12 @@
+{
+    "mod_filename": "mana-and-artifice-1.2.1.9.jar",
+    "mod_id": "mana-and-artifice",
+    "mod_name": "Mana and Artifice",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Mithion"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice",
+    "description": "A splash of magic returns to Minecraft.",
+    "mod_dir": "/Mana_And_Artifice/"
+}

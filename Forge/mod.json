@@ -1,0 +1,12 @@
+{
+    "mod_filename": "forge-1.16.5-36.0.13.jar",
+    "mod_id": "N/A",
+    "mod_name": "N/A",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "@ForgeDevTeam"
+    ],
+    "url_website": "http://files.minecraftforge.net/",
+    "description": "MinecraftForge, the Minecraft modding API.",
+    "mod_dir": "/Forge/"
+}

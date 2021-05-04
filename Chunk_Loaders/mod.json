@@ -1,0 +1,12 @@
+{
+    "mod_filename": "chunkloaders-1.1.1-mc1.16.4.jar",
+    "mod_id": "chunkloaders",
+    "mod_name": "Chunk Loaders",
+    "mc_version": "1.16.4",
+    "mod_authors": [
+        "SuperMartijn642"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/chunk-loaders",
+    "description": "Chunk Loaders allows you to keep chunks loaded with different tiers of chunk loaders!",
+    "mod_dir": "/Chunk_Loaders/"
+}

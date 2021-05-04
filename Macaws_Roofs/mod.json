@@ -1,0 +1,12 @@
+{
+    "mod_filename": "mcw-roofs-2.0.1-mc1.16.5-4.jar",
+    "mod_id": "mcwroofs",
+    "mod_name": "Macaw's Roofs",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Sketch Macaw"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/macaws-roofs",
+    "description": "Build roofs, awnings, rain gutters and more!",
+    "mod_dir": "/Macaws_Roofs/"
+}

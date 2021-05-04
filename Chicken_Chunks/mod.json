@@ -1,0 +1,13 @@
+{
+    "mod_filename": "ChickenChunks-1.16.4-2.7.0.85-universal.jar",
+    "mod_id": "chickenchunks",
+    "mod_name": "ChickenChunks",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "ChickenBones",
+		"covers1624"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/chicken-chunks-1-8",
+    "description": "Advanced ChunkLoading management",
+    "mod_dir": "/Chicken_Chunks/"
+}

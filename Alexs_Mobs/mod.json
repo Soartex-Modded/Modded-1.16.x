@@ -1,0 +1,12 @@
+{
+    "mod_filename": "alexsmobs-1.5.0.jar",
+    "mod_id": "alexsmobs",
+    "mod_name": "Alex's Mobs",
+    "mc_version": "1.16.5",
+    "mod_authors": [
+        "Alexthe666"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+    "description": "New, original, engaging, and aesthetic mobs for Minecraft.",
+    "mod_dir": "/Alexs_Mobs/"
+}
